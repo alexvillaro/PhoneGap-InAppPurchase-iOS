@@ -1,3 +1,5 @@
+#Please move to https://github.com/j3k0/PhoneGap-InAppPurchase-iOS
+
 # iOS In-App Purchase plugin
 
  * Allows In-App Purchases to be made from a Phonegap Application.
